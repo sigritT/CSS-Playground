@@ -1,0 +1,47 @@
+@import url('https://fonts.googleapis.com/css2?family=Moo+Lah+Lah&family=Pacifico&display=swap');
+
+body {
+    background-color: rgb(103, 248, 204);
+}
+
+.heading {
+    text-align:center;
+}
+
+.playground-heading {
+    color: black;
+    font-family: 'Moo Lah Lah', cursive;
+    font-size: 5rem;
+}
+
+.main {
+    border: 2px solid grey;
+    width: 65%;
+    margin: 1rem auto;
+}
+
+.main div {
+    height: 200px;
+    width: 200px;
+    border: 5px solid salmon;
+    border-radius: 50%;
+    margin: 1rem auto;
+}
+
+#red {
+    border-color: red;
+}
+
+#orange {
+    border-color: orangered;
+}
+
+#green {
+    border-color: rgb(4, 187, 4);
+}
+.footer {
+    color: black;
+    font-family: 'Pacifico', cursive;
+    font-size: 2rem;
+    text-align:center;
+}
